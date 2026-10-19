@@ -5,7 +5,7 @@
 ## Wiki
 
 - [Wiki 홈](https://github.com/ysiksik/price-maegyeong-docs/wiki)
-- [01. 프로젝트 개요와 초기 아키텍처](https://github.com/ysiksik/price-maegyeong-docs/wiki/01-project-overview)
+- [01. 프로젝트 개요와 초기 아키텍처](https://github.com/ysiksik/price-maegyeong-docs/wiki/01%E2%80%90project%E2%80%90overview)
 
 ## 관련 링크
 
